@@ -9,6 +9,7 @@
 * `Ubuntu 22.04 LTS (Jammy Jellyfish)`= `Linux Mint 21`
 #
  How to use ?
+ 
   simple Method:
  
  for Openjdk17 :
