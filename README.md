@@ -29,14 +29,3 @@ for Openjdk11 :
 for Openjdk10 :
 * ``
 
-
-
- cumbersome Method :
-* `sudo apt install git`
-* `git clone https://github.com/tobyw121/Java-installer`
-* `cd Java-installer`
-* `git branch -a`
-* `git checkout "Name from Github Branches" `
-* `sudo chmod 777 start.sh`
-* `./start.sh`
-#
