@@ -1,5 +1,5 @@
 # Java-installer
-`Install Java for Ubuntu ,Linux Mint and Another Linux Distros with Based on Ubuntu`
+`Install Java for Ubuntu ,Linux Mint and Another Linux Distros with Based on Ubuntu , Debian `
 
  How to use ?
  
