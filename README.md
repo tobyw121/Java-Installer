@@ -5,6 +5,9 @@
  
   simple Method:
   
+  for openjdk20:
+* `wget https://github.com/tobyw121/Java-Installer/releases/download/openjdk-20/openjdk-20_linux_64.tar.gz && wget https://raw.githubusercontent.com/tobyw121/Java-Installer/main/install-java.sh && chmod +x install-java.sh &&sudo ./install-java.sh -f openjdk-20_linux_64.tar.gz`
+  
   for openjdk19:
 * `wget https://github.com/tobyw121/Java-Installer/releases/download/openjdk-19/openjdk-19_linux_64.tar.gz && wget https://raw.githubusercontent.com/tobyw121/Java-Installer/main/install-java.sh && chmod +x install-java.sh &&sudo ./install-java.sh -f openjdk-19_linux_64.tar.gz`
   
