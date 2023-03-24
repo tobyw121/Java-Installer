@@ -41,3 +41,9 @@ for openjdk10 :
 for openjdk9:
 * `wget https://github.com/tobyw121/Java-Installer/releases/download/openjdk-9/openjdk-9_linux_64.tar.gz && wget https://raw.githubusercontent.com/tobyw121/Java-Installer/main/install-java.sh && chmod +x install-java.sh &&sudo ./install-java.sh -f openjdk-9_linux_64.tar.gz`
 
+for openjdk8:
+* `wget https://github.com/tobyw121/Java-Installer/releases/download/openjdk-8/openjdk-8_linux_64.tar.gz && wget https://raw.githubusercontent.com/tobyw121/Java-Installer/main/install-java.sh && chmod +x install-java.sh &&sudo ./install-java.sh -f openjdk-8_linux_64.tar.gz`
+
+for openjdk8:
+* `wget https://github.com/tobyw121/Java-Installer/releases/download/openjdk-8/openjdk-7_linux_64.tar.gz && wget https://raw.githubusercontent.com/tobyw121/Java-Installer/main/install-java.sh && chmod +x install-java.sh &&sudo ./install-java.sh -f openjdk-7_linux_64.tar.gz`
+
